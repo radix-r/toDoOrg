@@ -1,133 +1,125 @@
-To Do Fall 2017 - Spring 2018:
+-To Do Fall 2017 - Spring 2018:
 ------
 -----priorities-------
-physics 
-systems software 
-computer science 2
-statistics
+-physics 
+-systems software 
+-computer science 2
+-statistics
 ------recurring------
-no naps
-more sun
-bring water bottle 
-bag snacks
-phys equation sheet
-stats equation sheet
-no video games
+-no naps
+-more sun
+-bring water bottle 
+-bag snacks
+-phys equation sheet
+-stats equation sheet
+-no video games
 ---------------------------
+t Monday 4/2
+cs2 Kattis 3 4/13
+test 4/20
 sysSoft c style
 stats ch8 nonparametric
-cs2 Cntseq 4/6
-cs2 Kattis 3 4/13
-t Monday 4/2
 study tequ
 t goals
-(X)doc Tues 3/27 10am
 calendar update 
-(X)register for classes
-(×)phys exam wed
 sysSoft book 197 to 226
 garret watts
-(×)sysSoft practice 3 & 4
 clean computer (literal)
-(×)cs2 exam 2 3/22
-(×)sysSoft exam 2 
-(×)stats sample exam
-(×)cs2 calc 3/9
-(×)phys hw pre 31 03/07
-(×)phys hw 30 03/07
-(×)sysSoft hw2 3/22
-(×)stats eqn sheet
-(×)apt Mon 3/26 12:30
-(×)expect call Mon 3/12 11:30
-
 change party
-(:c)phys review 26-29
-(X)phys hw29-2 2/28
-(X)yoga 2/23 5:30
-(X)appointment 2/28 8:30
-(×)cs2 learn BFS DFS 
-(:C)cs2 kattis 2 3/23
-(X)cs2 camera 3/2
 knuth books art of computer programming 
 resume improvements
-(×)stats ch5 notes 2/21
-(×)phys hw 29 2/21
-(×)phys exam 2/21
-(×)stats exam 2 2/19
-(×)stats exam 2 eqn sheet
-(:c)hostDime email
-(×)cs2 exam sheet
 index notes
-(×)internship fair 2/14
-(X)work orders 
-(×)phys hw 28 2/14
-(×)phys hw 27 2/14
-(×)cs2 red black notes
-(×)phys ch 27 notes
-(×)phys hw 26 
 go lang
-(×)binder paper
-(×)cs2 exam 1 2/15 thurs
-(×)sys soft practice problems
-(×)sys soft exam 2/13 Tues 
 internships
-(X)stats practice exam
-(×)stats ch3 notes
-(X)phys hw 23 24 25 1/28
-(X)scantrons 
-(X)cs2 Ant 2/2
-(X)phys exam 1/29
-(×)stats exam 1/29
-(×)sysSoft pm0 2/11
 goodrx.com
-(X)stats hw 1
-(:c)stats notes coor and reg 
-(X)small sticky notes 
-
-(X)phys quiz system
-(:C)phys read ch22
-(X)cs2 sudoku 1/12
-(X)cs2 kattis 2/9
-(X)mastering physics 
-(X)update spreadsheet 
-
 pi projects 
 Finish Java Algs 4 on VM
 John alt democracy chat
 
 
 
-(X)OOP Final Friday, December 8, 2017 10:00 A.M. – 12:50 P.M.
-(X)Org Final Friday, December 8, 2017 1 P.M. same room as class
-(X)Discreete Final December 5, 10am
 
-(X)Writing proposal 12/4 monday
-(:c)Discreete HW 9 12/1 Friday
-(X)OOP hw 8 12/1 Friday
-(X)Org HW 9 12/1 Friday
-(X)Org Project 12/1 Friday
-
-(X)Com service forms 11/30
-(x)OOP Bonus Wed 11/22
-(X)OOP HW 7 Sun 11/19
+(X)cs2 sudoku 1/12
+(X)phys exam 1/29
+(×)stats exam 1/29
+(X)cs2 Ant 2/2
+(X)cs2 kattis 2/9
+(×)sysSoft pm0 2/11
+(×)sys soft exam 2/13 Tues 
+(×)internship fair 2/14
+(×)cs2 exam 1 2/15 thurs
+(×)stats exam 2 2/19
+(×)stats ch5 notes 2/21
+(×)phys exam 2/21
+(X)yoga 2/23 5:30
+(X)appointment 2/28 8:30
+(X)cs2 camera 3/2
+(×)phys hw pre 31 03/07
+(×)phys hw 30 03/07
+(×)cs2 calc 3/9
+(×)expect call Mon 3/12 11:30
+(×)cs2 exam 2 3/22
+(×)sysSoft hw2 3/22
+(:C)cs2 kattis 2 3/23
+(×)apt Mon 3/26 12:30
+(X)doc Tues 3/27 10am
+(X)cs2 Cntseq 4/6
+(X)OOP HW4	10/13
+(X)com org hw5 10/13
+(X)Writing Quiz3 10/13
+(X)Discreete HW5 10/15
+(X)Org Mips Hw 10/27
+(X)Writing revision 10/27
+(X)Discreete hw6 11/3
+(X)Writing quiz 11/3
+(X)OOP HW 6 11/5
 (X)Discreete Hw 8 fri 11/17
 (X)Discreete Group Write up fri 11/17
 (X)Writing quiz fri 11/17
 (X)Org Hw 7 fri 11/17
-
-
+(X)OOP HW 7 Sun 11/19
+(x)OOP Bonus Wed 11/22
+(X)Com service forms 11/30
+(:c)Discreete HW 9 12/1 Friday
+(X)OOP hw 8 12/1 Friday
+(X)Org HW 9 12/1 Friday
+(X)Org Project 12/1 Friday
+(X)Writing proposal 12/4 monday
+(X)phys hw 23 24 25 1/28
+(×)phys hw 27 2/14
+(×)phys hw 28 2/14
+(×)phys hw 29 2/21
+(X)phys hw29-2 2/28
+(X)register for classes
+(×)phys exam wed
+(×)sysSoft practice 3 & 4
+(×)sysSoft exam 2 
+(×)stats sample exam
+(×)stats eqn sheet
+(:c)phys review 26-29
+(×)cs2 learn BFS DFS 
+(×)stats exam 2 eqn sheet
+(:c)hostDime email
+(×)cs2 exam sheet
+(X)work orders 
+(×)cs2 red black notes
+(×)phys ch 27 notes
+(×)phys hw 26 
+(×)binder paper
+(×)sys soft practice problems
+(X)stats practice exam
+(×)stats ch3 notes
+(X)scantrons 
+(X)stats hw 1
+(:c)stats notes coor and reg 
+(X)small sticky notes 
+(X)phys quiz system
+(:C)phys read ch22
+(X)mastering physics 
+(X)update spreadsheet 
+(X)OOP Final Friday, December 8, 2017 10:00 A.M. – 12:50 P.M.
+(X)Org Final Friday, December 8, 2017 1 P.M. same room as class
+(X)Discreete Final December 5, 10am
 (X)scholarship(s)
-(X)Discreete hw6 11/3
-(X)Writing quiz 11/3
-(X)OOP HW 6 11/5
-
 (X)FAFSA
 (X)Handshake
-(X)Org Mips Hw 10/27
-(X)Writing revision 10/27
-(X)Discreete HW5 10/15
-(X)OOP HW4	10/13
-(X)com org hw5 10/13
-(X)Writing Quiz3 10/13
-
-
