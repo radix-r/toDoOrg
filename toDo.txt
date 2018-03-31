@@ -14,7 +14,9 @@
 -stats equation sheet
 -no video games
 ---------------------------
+test 99 1/1
 t Monday 4/2
+test 32 4/5
 cs2 Kattis 3 4/13
 test 4/20
 sysSoft c style
@@ -39,7 +41,9 @@ John alt democracy chat
 
 
 
+
 (X)cs2 sudoku 1/12
+(X)phys hw 23 24 25 1/28
 (X)phys exam 1/29
 (×)stats exam 1/29
 (X)cs2 Ant 2/2
@@ -47,12 +51,16 @@ John alt democracy chat
 (×)sysSoft pm0 2/11
 (×)sys soft exam 2/13 Tues 
 (×)internship fair 2/14
+(×)phys hw 27 2/14
+(×)phys hw 28 2/14
 (×)cs2 exam 1 2/15 thurs
 (×)stats exam 2 2/19
 (×)stats ch5 notes 2/21
 (×)phys exam 2/21
+(×)phys hw 29 2/21
 (X)yoga 2/23 5:30
 (X)appointment 2/28 8:30
+(X)phys hw29-2 2/28
 (X)cs2 camera 3/2
 (×)phys hw pre 31 03/07
 (×)phys hw 30 03/07
@@ -85,11 +93,6 @@ John alt democracy chat
 (X)Org HW 9 12/1 Friday
 (X)Org Project 12/1 Friday
 (X)Writing proposal 12/4 monday
-(X)phys hw 23 24 25 1/28
-(×)phys hw 27 2/14
-(×)phys hw 28 2/14
-(×)phys hw 29 2/21
-(X)phys hw29-2 2/28
 (X)register for classes
 (×)phys exam wed
 (×)sysSoft practice 3 & 4

@@ -2,7 +2,7 @@
 echo "Starting to-do organizer"
 while true; do  
 	echo "compiling" 
-	gcc -o org toDoOrg.c
+	`gcc -o org toDoOrg.c` 
 	echo "running"
 	`./org toDo.txt`
 	

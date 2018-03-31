@@ -158,19 +158,18 @@ int dateValue(char **linePtr){
         mIndex = 0;
         dIndex = 0;
         ch = (*linePtr)[i++];
-        if(isdigit(ch)){
+        if(ch >= '0' && ch <='9'){
           monthTxt[mIndex++] = ch;
           state = 1;
         }
         break;
       case 1: // digit found
         ch = (*linePtr)[i++];
-        if(isdigit(ch)){
+        if(ch >= '0' && ch <='9'){
           monthTxt[mIndex++] = ch;
           state = 1;
         }
         else if(ch == '/'){
-
           state = 2;
         }
         else{
@@ -179,7 +178,7 @@ int dateValue(char **linePtr){
         break;
       case 2: // digits followed by '/'
         ch = (*linePtr)[i++];
-        if(isdigit(ch)){
+        if(ch >= '0' && ch <='9'){
           dayTxt[dIndex++] = ch;
           state = 3;
         }
@@ -189,12 +188,14 @@ int dateValue(char **linePtr){
         break;
       case 3: // digits followed by '/' followed by digits
         ch = (*linePtr)[i++];
-        if(isdigit(ch)){
+        if(ch >= '0' && ch <='9'){
           dayTxt[dIndex++] = ch;
           state = 3;
         }
         else{
           found = 1;
+          monthTxt[mIndex]='\0';
+          dayTxt[dIndex] = '\0';
           monthVal = (int) strtol(monthTxt, &dummy, 10);
           dayVal = (int) strtol(dayTxt, &dummy, 10);
 
