@@ -2,11 +2,11 @@
 
 compile: gcc -o org toDoOrg.c
 
-run: ./org <my todo list name> 
+run: ./org \<my to-do list name> 
 
-**or** if you want to add to your list throughout the day and have it orginize every hour
+**or** if you want to add to your list throughout the day and have it organize every hour
 
-run: ./orgScript.bash 
+run: ./orgScript.bash \<my to-do list name> 
 
 I'm pretty sure this only work with Linux. This is best used in conjunction with Dropbox of some other file sharing scheme. 
 
