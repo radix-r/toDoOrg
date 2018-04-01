@@ -8,7 +8,7 @@ run: ./org \<my to-do list name>
 
 run: ./orgScript.bash \<my to-do list name> 
 
-I'm pretty sure this only work with Linux. This is best used in conjunction with Dropbox of some other file sharing scheme. I recommend having a Dropbox folder on your computer and running ./orgScript.bash \<my to-do list name>. Then on you phone getting the Dropbox app. This way you have a mobile, self organizing to-do list.
+I'm pretty sure this only works with Linux. This is best used in conjunction with Dropbox of some other file sharing scheme. I recommend having a Dropbox folder on your computer and running ./orgScript.bash \<my to-do list name>. Then on your phone getting the Dropbox app. This way you have a mobile, self organizing to-do list.
 
 ## Basic format of to-do list:
 
@@ -33,18 +33,18 @@ get a life
 becomes
 
 ```
->-To Do Fall 2017 - Spring 2018:
->-------------------------------
->-----priorities-------
->-physics 
->-systems software 
->-computer science 2
->-statistics
->-----TO-DO-----------------
->ur mom 2/15
->Get gud
->get a life
->(X)sell gf
+-To Do Fall 2017 - Spring 2018:
+-------------------------------
+-----priorities-------
+-physics 
+-systems software 
+-computer science 2
+-statistics
+-----TO-DO-----------------
+ur mom 2/15
+Get gud
+get a life
+(X)sell gf
 ```
     
 
