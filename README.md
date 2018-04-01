@@ -1,6 +1,7 @@
 # toDoOrg
 
 compile: gcc -o org toDoOrg.c
+
 run: ./org <my todo list name> 
 
 **or** if you want to add to your list throughout the day and have it orginize every hour
@@ -16,16 +17,27 @@ Lines that start with the  '-' character are considered the header. They will be
 ## Sample
 
 >-To Do Fall 2017 - Spring 2018:
+
 >-------------------------------
+
 >-----priorities-------
+
 >-physics 
+
 >-systems software 
+
 >-computer science 2
+
 >-statistics
+
 >-----TO-DO-----------------
+
 >Get gud
+
 >ur mom 2/15
+
 >(X)sell gf
+
 >get a life
 
 
@@ -33,16 +45,27 @@ becomes
 
 
 >-To Do Fall 2017 - Spring 2018:
+
 >-------------------------------
+
 >-----priorities-------
+
 >-physics 
+
 >-systems software 
+
 >-computer science 2
+
 >-statistics
+
 >-----TO-DO-----------------
+
 >ur mom 2/15
+
 >Get gud
+
 >get a life
+
 >(X)sell gf
 
     
