@@ -126,15 +126,12 @@ int main(int argc, char **argv){
   printLL(space, fid);
   printLL(done, fid);
 
-
-
-
-
-
-
+  fclose(fid);
 
   destroyLL(toDo[0]);
   destroyLL(done[0]);
+  destroyLL(space[0]);
+  destroyLL(header[0]);
   free(toDo);
   free(done);
   free (header);
