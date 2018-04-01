@@ -4,11 +4,11 @@ compile: gcc -o org toDoOrg.c
 
 run: ./org \<my to-do list name> 
 
-**or** if you want to add to your list throughout the day and have it organize every hour
+**or** if you want to add to your list throughout the day and have it organize every hour.
 
 run: ./orgScript.bash \<my to-do list name> 
 
-I'm pretty sure this only work with Linux. This is best used in conjunction with Dropbox of some other file sharing scheme. 
+I'm pretty sure this only work with Linux. This is best used in conjunction with Dropbox of some other file sharing scheme. I recommend having a Dropbox folder on your computer and running ./orgScript.bash \<my to-do list name>. Then on you phone getting the Dropbox app. This way you have a mobile, self organizing to-do list.
 
 ## Basic format of to-do list:
 
