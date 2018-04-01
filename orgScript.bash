@@ -1,10 +1,11 @@
 #!/bin/bash
-echo "Starting to-do organizer"
+read -p 'To-Do file to organize: ' fName
+echo "Starting to-do organizer on $fName"
 while true; do  
-	echo "compiling" 
+	echo "Compiling" 
 	`gcc -o org toDoOrg.c` 
-	echo "running"
-	`./org toDo.txt`
+	echo "Running"
+	`./org $fName`
 	
 	#sleep 
 	echo "Sleeping for 1 hour" 
