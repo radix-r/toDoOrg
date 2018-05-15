@@ -11,6 +11,7 @@ sleep study 6/7 10am
 STEM volunteer  Monday, 6/11 – Friday, June 15:   8:30am – 5:00pm
 sleep apt Tues 7/31 3pm
 psych tues 7/31 5pm
+TEST1 9/99
 "Computer Security: Principles and PracAce", (3rd EdiAon), by William Stallings and Lawrie Brown
 Introduction to the Theory of Computation 3rd Ed., by Sipser, Cengage Learning, 2013
 archive notes

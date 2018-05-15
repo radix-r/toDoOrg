@@ -20,7 +20,7 @@ while true; do
 	
 	#echo "$d"
 	
-	if [ ! -z $d ]; then
+	if [[ ! -z $d ]]; then
 		echo "Change to source code detected"
 		bool_run=1
 	fi
